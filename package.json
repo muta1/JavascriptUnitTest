@@ -1,0 +1,30 @@
+{
+  "name": "javascriptunittest",
+  "version": "1.0.0",
+  "description": "Just for pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muta1/JavascriptUnitTest.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "javascript",
+    "mocha",
+    "chai"
+  ],
+  "author": "Ítalo Mutão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muta1/JavascriptUnitTest/issues"
+  },
+  "homepage": "https://github.com/muta1/JavascriptUnitTest#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
